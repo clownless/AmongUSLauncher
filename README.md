@@ -2,7 +2,7 @@
 A simple Among Us launcher written in AHK.
 
 ## How to compile
-- Clone the repository with the command `git clone https://gitlab.com/clownless/AmongUSLauncher | cd AmongUSLauncher | git submodule update --init --recursive`
+- Clone the repository with the command `git clone https://github.com/clownless/AmongUSLauncher | cd AmongUSLauncher | git submodule update --init --recursive`
 - Run `COMPILE.bat`
 
 ## Contributing

@@ -44,9 +44,9 @@ install:
     Msgbox, The installation process has started, please wait.
     Logging(1,"start installing")
     Gui, Submit, NoHide
-    zip := path . "\amongus.zip"
-    Logging(1,"downloading among us to " path "\amongus.zip")
-    UrlDownloadToFile, https://files.cocksuckers.fun/other/amongus.zip, %path%\amongus.zip
+    zip := path . "\amogus.zip"
+    Logging(1,"downloading among us to " path "\amogus.zip")
+    UrlDownloadToFile, https://files.catbox.moe/pry3cz.zip, %path%\amogus.zip
     Logging(1, "errorlevel after downloading " ErrorLevel)
     if (ErrorLevel = 1)
     {
